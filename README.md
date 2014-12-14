@@ -1,4 +1,3 @@
-Hariswan
-========
+Author : Haris Hermawan
+Website : http://hariswans.blogspot.com
 
-Hariswan - Youtube Downloader
